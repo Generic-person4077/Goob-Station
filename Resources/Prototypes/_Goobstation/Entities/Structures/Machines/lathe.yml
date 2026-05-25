@@ -295,7 +295,6 @@
     - EntertainmentPack # goob
     # Einstein Engines Packs
     - Translators
-    - Service
   - type: EmagLatheRecipes
     emagStaticPacks:
     - ServiceBoardsEvilStatic # Donk Co microwave circiutboard
